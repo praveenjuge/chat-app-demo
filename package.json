@@ -5,11 +5,7 @@
   "repository": "git@github.com:praveenjuge/chat-app-demo.git",
   "author": "praveenjuge <praveen@skcript.com>",
   "license": "MIT",
-  "engines": {
-    "node": ">=6.11.1",
-    "npm": ">=3.10.3"
-  },
   "dependencies": {
-    "blendid": "4.4.2"
+    "blendid": "5.0.0"
   }
 }
