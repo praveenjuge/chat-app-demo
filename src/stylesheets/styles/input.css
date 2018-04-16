@@ -1,0 +1,33 @@
+/* style user input field */
+.bubble-container .input-wrap {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	color: #2c2c2c;
+}
+.bubble-container .input-wrap textarea {
+	width: 94%;
+	color: #6B7E91;
+	background: #FFF;
+	border-radius: 50px;
+	border: 1.5px solid #317BF5;
+	font-size: 1em;
+	font-weight: 400;
+	margin: 10px;
+	padding: 10px 15px;
+	outline: none;
+	height: 22px;
+}
+.bubble.reply-freeform {
+	margin: 0;
+}
+.bubble.reply.reply-freeform.say .bubble-content .bubble-button {
+	margin-top: 1px;
+	text-align: left;
+}
+.bubble.reply.say.bubble-hidden {
+	margin: 0;
+	transform: scale(0);
+	height: 0;
+}
