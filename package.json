@@ -6,6 +6,6 @@
   "author": "praveenjuge <praveen@skcript.com>",
   "license": "MIT",
   "dependencies": {
-    "blendid": "5.0.0"
+    "blendid": "^4.4.3"
   }
 }
